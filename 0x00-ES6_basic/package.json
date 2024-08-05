@@ -1,0 +1,14 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node 0-main.js",
+    "dev": "node --inspect 0-main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
