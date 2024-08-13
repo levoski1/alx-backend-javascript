@@ -14,4 +14,4 @@ export default function getStudentIdsSum(student){
         return 0;
     }
     return student.reduce((accumulator, student) => accumulator + student.id, 0)
-}
+};
